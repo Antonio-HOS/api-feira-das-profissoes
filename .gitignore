@@ -1,0 +1,20 @@
+# Build
+**/bin/
+**/x64/
+**/*.user
+**/*.aps
+**/moc_*.cpp
+**/ui_*.h
+**/qrc_*.cpp
+**/object_script.*
+**/.qmake.stash
+**/Makefile*
+**/debug/
+**/release/
+log.txt
+
+# IDE
+.vs/
+*.suo
+*.sdf
+*.VC.db
